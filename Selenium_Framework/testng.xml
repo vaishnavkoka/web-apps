@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Framework">
+  <test thread-count="5" name="driven">
+    <classes>
+      <class name="Working.with.Data.driven.framewwork.New_tours_registration_using_excel"/>
+      <class name="Working.with.Modular.driven.framework.New_tours_register_verify_ss_close"/>
+      <class name="Working.with.Hybrid.driven.framework.Orange_HRM_Driver_Script"/>
+      <class name="Working.with.Keyword.driven.framework.Mercury_Driver_Script"/>
+    </classes>
+  </test> <!-- driven -->
+</suite> <!-- Framework -->

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Framework" duration-ms="345469" started-at="2020-03-02T20:33:38 IST" finished-at="2020-03-02T20:39:23 IST">
+    <groups>
+    </groups>
+    <test name="driven" duration-ms="345469" started-at="2020-03-02T20:33:38 IST" finished-at="2020-03-02T20:39:23 IST">
+      <class name="Working.with.Modular.driven.framework.New_tours_register_verify_ss_close">
+        <test-method status="PASS" signature="operationTours()[pri:0, instance:Working.with.Modular.driven.framework.New_tours_register_verify_ss_close@1e028a9]" name="operationTours" duration-ms="55475" started-at="2020-03-02T20:36:12 IST" finished-at="2020-03-02T20:37:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operationTours -->
+      </class> <!-- Working.with.Modular.driven.framework.New_tours_register_verify_ss_close -->
+      <class name="Working.with.Data.driven.framewwork.New_tours_registration_using_excel">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Working.with.Data.driven.framewwork.New_tours_registration_using_excel@1ef968d]" name="launchBrowser" is-config="true" duration-ms="40751" started-at="2020-03-02T20:33:38 IST" finished-at="2020-03-02T20:34:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="dataTestOperation()[pri:0, instance:Working.with.Data.driven.framewwork.New_tours_registration_using_excel@1ef968d]" name="dataTestOperation" duration-ms="109444" started-at="2020-03-02T20:34:22 IST" finished-at="2020-03-02T20:36:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTestOperation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Working.with.Data.driven.framewwork.New_tours_registration_using_excel@1ef968d]" name="closeBrowser" is-config="true" duration-ms="5639" started-at="2020-03-02T20:39:17 IST" finished-at="2020-03-02T20:39:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Working.with.Data.driven.framewwork.New_tours_registration_using_excel -->
+      <class name="Working.with.Keyword.driven.framework.Mercury_Driver_Script">
+        <test-method status="PASS" signature="operationSet()[pri:0, instance:Working.with.Keyword.driven.framework.Mercury_Driver_Script@e63ade]" name="operationSet" duration-ms="69002" started-at="2020-03-02T20:38:08 IST" finished-at="2020-03-02T20:39:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operationSet -->
+      </class> <!-- Working.with.Keyword.driven.framework.Mercury_Driver_Script -->
+      <class name="Working.with.Hybrid.driven.framework.Orange_HRM_Driver_Script">
+        <test-method status="PASS" signature="operationSet()[pri:0, instance:Working.with.Hybrid.driven.framework.Orange_HRM_Driver_Script@1d4520b]" name="operationSet" duration-ms="61213" started-at="2020-03-02T20:37:07 IST" finished-at="2020-03-02T20:38:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operationSet -->
+      </class> <!-- Working.with.Hybrid.driven.framework.Orange_HRM_Driver_Script -->
+    </test> <!-- driven -->
+  </suite> <!-- Framework -->
+</testng-results>
